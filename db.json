@@ -1,40 +1,40 @@
 {
   "postsData": [
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 2,
-      "id": 2,
-      "title": "et ea vero quia laudantium autem",
-      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
-    },
-    {
-      "userId": 3,
-      "id": 3,
-      "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
-      "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
-    },
-    {
-      "userId": 4,
-      "id": 4,
-      "title": "ullam ut quidem id aut vel consequuntur",
-      "body": "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae"
-    },
-    {
-      "userId": 5,
-      "id": 5,
-      "title": "non est facere",
-      "body": "molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe"
-    },
-    {
-      "userId": 6,
-      "id": 6,
-      "title": "soluta aliquam aperiam consequatur illo quis voluptas",
-      "body": "sunt dolores aut doloribus\ndolore doloribus voluptates tempora et\ndoloremque et quo\ncum asperiores sit consectetur dolorem"
-    }
-  ]
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Slice...",
+    "body": "This concept is quite interesting with Redux Toolkit!!"
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Creating Reducers",
+    "body": "So, imagine you have a reducer... and it's like the superhero of your app!"
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Async Actions",
+    "body": "Alright, folks! Let's talk about async actions in Redux Toolkit. Buckle up!"
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "title": "Immutable State",
+    "body": "Immutable state is like a rock-solid fortress protecting your app's data!"
+  },
+  {
+    "userId": 5,
+    "id": 5,
+    "title": "Selectors",
+    "body": "Selectors are like magical spells that conjure the exact data you need!"
+  },
+  {
+    "userId": 6,
+    "id": 6,
+    "title": "Middleware",
+    "body": "Middleware is like the cool kid in town, adding extra powers to your Redux app!"
+  }
+]
 }
